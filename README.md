@@ -5,7 +5,7 @@ A comprehensive web-based air quality monitoring and visualization platform that
 <img width="640" height="391" alt="image" src="https://github.com/user-attachments/assets/6e17640e-a945-415e-a564-63092d8115ee" />
 <img width="640" height="338" alt="image" src="https://github.com/user-attachments/assets/8f72e5db-0086-469c-9fa6-3ddd2ea1747e" />
 <img width="640" height="350" alt="image" src="https://github.com/user-attachments/assets/32ed52ec-4884-4a11-8a98-31a6d3f09bb3" />
-<img width="344" height="513" alt="image" src="https://github.com/user-attachments/assets/78d4abf2-7ea6-4193-a580-e99d06ef9e9b" />
+<img width="144" height="313" alt="image" src="https://github.com/user-attachments/assets/78d4abf2-7ea6-4193-a580-e99d06ef9e9b" />
 <img width="460" height="264" alt="image" src="https://github.com/user-attachments/assets/ff41d0d2-32e5-45f2-8867-5c010971df41" />
 <img width="635" height="393" alt="image" src="https://github.com/user-attachments/assets/e6504472-f501-42df-89ab-176857b009d0" />
 <img width="640" height="390" alt="image" src="https://github.com/user-attachments/assets/21a6bda0-990e-4653-b180-70fbcd99ca55" />
