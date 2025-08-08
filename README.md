@@ -1,8 +1,7 @@
 # Air Quality Monitoring Tool
 
 A comprehensive web-based air quality monitoring and visualization platform that aggregates data from multiple air quality APIs and provides interactive mapping capabilities with real-time data visualization.
-<img width="626" height="243" alt="image" src="https://github.com/user-attachments/assets/c0c1a853-b7c2-416e-a2e6-7d5b615c5369" />
-<img width="640" height="291" alt="image" src="https://github.com/user-attachments/assets/6e17640e-a945-415e-a564-63092d8115ee" />
+<img width="626" height="343" alt="image" src="https://github.com/user-attachments/assets/c0c1a853-b7c2-416e-a2e6-7d5b615c5369" /><img width="640" height="391" alt="image" src="https://github.com/user-attachments/assets/6e17640e-a945-415e-a564-63092d8115ee" />
 <img width="740" height="338" alt="image" src="https://github.com/user-attachments/assets/8f72e5db-0086-469c-9fa6-3ddd2ea1747e" />
 <img width="740" height="350" alt="image" src="https://github.com/user-attachments/assets/32ed52ec-4884-4a11-8a98-31a6d3f09bb3" />
 <img width="344" height="513" alt="image" src="https://github.com/user-attachments/assets/78d4abf2-7ea6-4193-a580-e99d06ef9e9b" />
